@@ -1,0 +1,9 @@
+Librerias necesarias
+
+
+node
+npm install react-router-dom 
+
+Comandos
+
+Directorio/ npm start --se utiliza para iniciar
