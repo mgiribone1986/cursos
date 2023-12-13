@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "title": "Corrector - Desaeado",
+        "price": 999.95,
+        "description": "Corrector Espanta Suegra",
+        "category": "Corretor",
+        "image": "https://iili.io/JuKLg24.png"
+    },
+    {
+        "id": 2,
+        "title": "Corrector - Barato ",
+        "price": 1.3,
+        "description": "Ideal Para ir en boliche en boliche",
+        "category": "Corrector",
+        "image": "https://iili.io/JuKLhkN.png"
+        
+    },
+    {
+        "id": 3,
+        "title": "Crema AntiHongo",
+        "price": 5.99,
+        "description": "Anti Hongo - Hora Pico",
+        "category": "Crema",
+        "image": "https://iili.io/JuKQoyN.png"
+    },
+    {
+        "id": 4,
+        "title": "Crema PoneteConCalma",
+        "price": 955.99,
+        "description": "Anti Estres",
+        "category": "Crema",
+        "image": "https://iili.io/JuKQB3v.png"
+    },
+    {
+        "id": 5,
+        "title": "Crema de día Me Paspe en el bondi",
+        "price": 855.99,
+        "description": "Para esos momentos en donde el rose del pantalon te abandona",
+        "category": "Crema",
+        "image": "https://iili.io/JuKQCaR.png"
+    },
+    {
+        "id": 6,
+        "title": "Lapiz Labial - Rojo como mis cuentas",
+        "price": 855.99,
+        "description": "Para sentirte en compose a partir de la mitad de mes",
+        "category": "Crema",
+        "image": "https://iili.io/JuKQf6J.png"
+    },
+    {
+        "id": 7,
+        "title": "Crema de Noche - Volver del Boliche",
+        "price": 955.99,
+        "description": "Ideal para los dias de mal aliento",
+        "category": "Lapiz",
+        "image": "https://iili.io/JuKQCaR.png"
+    },
+    {
+        "id": 8,
+        "title": "Lapiz Labial me dormi en el bondi",
+        "price": 55.99,
+        "description": "Para esos donde te das la ñata contra el vidrio",
+        "category": "Lapiz",
+        "image": "https://iili.io/JuKQnvp.png"
+    },
+    {
+        "id": 9,
+        "title": "Lapiz Labial me dormi en el bondi",
+        "price": 55.99,
+        "description": "Para esos donde te das la ñata contra el vidrio",
+        "category": "Lapiz",
+        "image": "https://iili.io/JuKQzuI.png"
+    }
+]

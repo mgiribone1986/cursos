@@ -153,6 +153,7 @@ const listaProductos = [
     "rating": {
     "rate": 2.9,
     "count": 250
+
     }
     },
     {
