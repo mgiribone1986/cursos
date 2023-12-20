@@ -23,4 +23,4 @@ function ItemListContainer() {
 
 export default ItemListContainer;
 
-/* Crear un boton detalle de producto, que me redirija a ProfileCard
+/* Crear un boton detalle de producto, que me redirija a ProfileCard*/
