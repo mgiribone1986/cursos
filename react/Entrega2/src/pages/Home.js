@@ -6,7 +6,9 @@ function Home() {
   return (
     <div>
       <NavBar />
-    
+        <div>
+        <h1>Hola</h1>
+        </div>
         <div>
             <Outlet />
         </div>

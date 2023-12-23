@@ -1,4 +1,5 @@
 // En CartContext.js
+
 import React, { createContext, useReducer, useContext } from 'react';
 
 // Definir las acciones
@@ -62,6 +63,6 @@ export function CartProvider({ children }) {
 }
 
 // Exportar un hook personalizado para acceder al contexto fácilmente
-export const useCart = ()=> {
+export function useCart() {
   return useContext(CartContext);
 }

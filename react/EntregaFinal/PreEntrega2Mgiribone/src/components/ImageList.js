@@ -1,6 +1,4 @@
-// ImageList.js
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 function ImageList({ products }) {
   return (
@@ -16,11 +14,10 @@ function ImageList({ products }) {
             <div className="card-content">
               <p className="title is-5">{product.title}</p>
               <p className="subtitle is-6">${product.price}</p>
-              <div className="content">{product.description}</div>
-              {/* Pasa todos los datos del producto */}
-              <Link to={`/galeria/${product.id}`} state={{ product }}>
-                <button className="button is-link">Ver Detalle</button>
-              </Link>
+              {/* Puedes agregar más detalles del producto si lo deseas */}
+              <div className="content">
+                {product.description}
+              </div>
             </div>
           </div>
         </div>

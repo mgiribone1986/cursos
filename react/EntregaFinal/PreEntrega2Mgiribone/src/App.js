@@ -6,7 +6,6 @@ import ProfileCard from './components/ProfileCard';
 import CartWidget from './components/CartWidget';
 import Error from './pages/Error';
 import Home from './pages/Home';
-import 'bulma/css/bulma.css';
 
 function App() {
   return (
@@ -17,7 +16,7 @@ function App() {
             <Route path="galeria" element={<ItemListContainer />} />
             <Route path="category/:id" element={<ItemListContainer />} />
             <Route path="cart" element={<CartWidget />} />
-            <Route path="/galeria/:id" element={<ProfileCard />} />    
+            <Route path="galeria/:codigo" element={<ProfileCard />} />    
             <Route path="*" element={<Error />} />
           </Route>
         </Routes>
